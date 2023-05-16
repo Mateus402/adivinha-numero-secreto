@@ -12,3 +12,5 @@ Para chutar um número, basta falar, pois essa aplicação contém reconheciment
 - ``JavaScript``
 - ``Speech Recognition`` - Responsável pelo reconhecimento da voz
 - ``Visual Studio Code``
+
+[Clique aqui para acessar o site](https://adivinhanumero.vercel.app/)
