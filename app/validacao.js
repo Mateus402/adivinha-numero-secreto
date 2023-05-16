@@ -1,5 +1,5 @@
 var audio = new Audio();
-audio.src = "vitoria.mp3"
+audio.src = './som/vitoria.mp3'
 
 function verificaChute(chute) {
     const numero = +chute
