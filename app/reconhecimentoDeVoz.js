@@ -22,6 +22,5 @@ function mostraChute(chute) {
     `
 }
 
-recognition.addEventListener('end', () => recognition.start()
-)
+recognition.addEventListener('end', () => recognition.start())
 
